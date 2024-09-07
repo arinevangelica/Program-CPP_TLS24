@@ -1,4 +1,4 @@
-Nama : Arin Evangelica Patabang
+Nama : Arin Evangelica Patabang 
 Kelompok : Orsted
 Program ini bertajuk "Menghitung Volume Bangun Ruang" 
 Program ini dirancang untuk menghitung volume dari beberapa jenis bangun ruang menggunakan bahasa pemrograman C++. 
